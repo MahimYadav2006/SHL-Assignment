@@ -1,0 +1,4542 @@
+[
+  {
+    "slug": "360-digital-report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "name": "360 Digital Report",
+    "description": "",
+    "testTypes": [
+      "D"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "360-multi-rater-feedback-system-mfs",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "name": "360 Multi Rater Feedback System Mfs",
+    "description": "",
+    "testTypes": [
+      "D"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "account-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "name": "Account Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "accounts-payable-new",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "name": "Accounts Payable New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "accounts-payable-simulation-new",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "name": "Accounts Payable Simulation New",
+    "description": "",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 20,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "accounts-receivable-new",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "name": "Accounts Receivable New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "accounts-receivable-simulation-new",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "name": "Accounts Receivable Simulation New",
+    "description": "",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 20,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "administrative-professional-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "name": "Administrative Professional Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "ado-net-new",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "name": "ADO NET New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "adobe-experience-manager-new",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "name": "Adobe Experience Manager New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "adobe-photoshop-cc",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "name": "Adobe Photoshop CC",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "aeronautical-engineering-new",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "name": "Aeronautical Engineering New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "aerospace-engineering-new",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "name": "Aerospace Engineering New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "agency-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "name": "Agency Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "agile-software-development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "name": "Agile Software Development",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "agile-testing-new",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "name": "Agile Testing New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "ai-skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "name": "Ai Skills",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 6,
+    "description": "Assesses knowledge of AWS cloud services including EC2, S3, Lambda, DynamoDB, and cloud architecture best practices.",
+    "slug": "amazon-web-services-aws-development-new",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "android-development-new",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "name": "Android Development New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "angular-6-new",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "name": "Angular 6 New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "angularjs-new",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "name": "Angularjs New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-hadoop-extensions-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "name": "Apache Hadoop Extensions New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-hadoop-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "name": "Apache Hadoop New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-hbase-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "name": "Apache Hbase New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-hive-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "name": "Apache Hive New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-kafka-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "name": "Apache Kafka New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-pig-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "name": "Apache Pig New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apache-spark-new",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "name": "Apache Spark New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apprentice-8-0-job-focused-assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "name": "Apprentice 8 0 Job Focused Assessment",
+    "description": "",
+    "testTypes": [
+      "B",
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "apprentice-8-0-job-focused-assessment-4261",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "name": "Apprentice 8 0 Job Focused Assessment 4261",
+    "description": "",
+    "testTypes": [
+      "B",
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "asp-net-4-5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "name": "ASP NET 4 5",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "asp-net-with-c-new",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "name": "ASP NET With C New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "assessment-and-development-center-exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "name": "Assessment And Development Center Exercises",
+    "description": "",
+    "testTypes": [
+      "K",
+      "E"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "automata-fix-new",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "name": "Automata Fix New",
+    "description": "",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "automata-new",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "name": "Automata New",
+    "description": "",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "automata-sql-new",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "name": "Automata SQL New",
+    "description": "",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "bank-administrative-assistant-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "name": "Bank Administrative Assistant Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "bank-collections-agent-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "name": "Bank Collections Agent Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "bank-operations-supervisor-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "name": "Bank Operations Supervisor Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "basic-computer-literacy-windows-10-new",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "name": "Basic Computer Literacy Windows 10 New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "description": "Assesses understanding of basic statistical concepts including mean, median, standard deviation, probability, and hypothesis testing.",
+    "slug": "basic-statistics-new",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "bilingual-spanish-reservation-agent-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "bookkeeping-accounting-auditing-clerk-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "name": "Bookkeeping Accounting Auditing Clerk Short Form",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "branch-manager-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "name": "Branch Manager Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "business-communication-adaptive",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "name": "Business Communication Adaptive",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "business-communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "name": "Business Communications",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "cashier-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "name": "Cashier Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "claimsoperations-supervisor-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/claimsoperations-supervisor-solution/",
+    "name": "Claimsoperations Supervisor Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "testTypes": [
+      "S"
+    ],
+    "duration_minutes": 15,
+    "description": "Simulates inbound customer service calls. Candidates handle realistic customer scenarios including complaints, information requests, and problem resolution.",
+    "slug": "contact-center-call-simulation-new",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-customer-service-8-0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "name": "Contact Center Customer Service 8 0",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-customer-service-8-0-4269",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "name": "Contact Center Customer Service 8 0 4269",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-manager-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+    "name": "Contact Center Manager Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-sales-and-service-8-0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "name": "Contact Center Sales And Service 8 0",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-sales-and-service-8-0-4268",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "name": "Contact Center Sales And Service 8 0 4268",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-center-team-leadcoach-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "name": "Contact Center Team Leadcoach Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "contact-centre-agent-solution-uk",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-centre-agent-solution-uk/",
+    "name": "Contact Centre Agent Solution UK",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "conversational-multichat-simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "name": "Conversational Multichat Simulation",
+    "description": "",
+    "testTypes": [
+      "S"
+    ],
+    "duration_minutes": 20,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 13,
+    "description": "Advanced Java assessment covering concurrency, JVM internals, performance tuning, design patterns, and enterprise Java concepts for senior developers.",
+    "slug": "core-java-advanced-level-new",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "testTypes": [
+      "B",
+      "S"
+    ],
+    "duration_minutes": 20,
+    "description": "Combined biodata and simulation assessment for phone-based customer service roles. Includes situational judgment and realistic call handling scenarios.",
+    "slug": "customer-service-phone-simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "customer-service-phone-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "name": "Customer Service Phone Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "customer-service-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+    "name": "Customer Service Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "customer-service-short-form-uk",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+    "name": "Customer Service Short Form UK",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "customer-service-with-sales-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "name": "Customer Service With Sales Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "data-entry-new",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "name": "Data Entry New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "data-entry-numeric-split-screen-us",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "name": "Data Entry Numeric Split Screen US",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": 10,
+    "description": "Standalone personality measure assessing integrity, dependability, and safety attitudes. Applicable across all industry sectors.",
+    "languages": [
+      "English",
+      "Spanish (Latin American)"
+    ],
+    "slug": "dependability-and-safety-instrument-dsi",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "director-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+    "name": "Director Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "districtregional-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/districtregional-manager-solution/",
+    "name": "Districtregional Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Docker (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "description": "Tests knowledge of Docker containerization including images, containers, Dockerfile, Docker Compose, and container orchestration basics.",
+    "slug": "docker-new",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-cashier-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "name": "Entry Level Cashier 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-cashier-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "name": "Entry Level Cashier 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-cashier-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "name": "Entry Level Cashier Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Entry Level Customer Serv - Retail & Contact Center",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 19,
+    "description": "Assessment for entry-level customer service roles in retail and contact center environments. Measures personality traits and competencies relevant to customer interactions.",
+    "slug": "entry-level-customer-serv-retail-and-contact-center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-customer-service-%28retail-and-cc%29-7-1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "name": "Entry Level Customer Service (retail And Cc) 7 1",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-customer-service-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "name": "Entry Level Customer Service 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-customer-service-7-1-%28south-africa%29",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "name": "Entry Level Customer Service 7 1 (south Africa)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-hotel-front-desk-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "name": "Entry Level Hotel Front Desk Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-sales-7-1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+    "name": "Entry Level Sales 7 1",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-sales-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "name": "Entry Level Sales 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "entry-level-sales-sift-out-7-1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "name": "Entry Level Sales Sift Out 7 1",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "event-sales-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/event-sales-manager-solution/",
+    "name": "Event Sales Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "executive-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+    "name": "Executive Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 9,
+    "description": "Tests knowledge of financial accounting principles including debits/credits, financial statements, GAAP, and accounting transactions.",
+    "slug": "financial-accounting-new",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "financial-professional-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+    "name": "Financial Professional Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "financial-services-representative-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-services-representative-solution/",
+    "name": "Financial Services Representative Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "front-desk-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/front-desk-associate-solution/",
+    "name": "Front Desk Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "gaming-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-associate-solution/",
+    "name": "Gaming Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "gaming-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-manager-solution/",
+    "name": "Gaming Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "general-entry-level-all-industries-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+    "name": "General Entry Level All Industries 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "general-entry-level-all-industries-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+    "name": "General Entry Level All Industries 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "general-entry-level-all-industries-7-1%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "name": "General Entry Level All Industries 7 1(americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "general-entry-level-data-entry-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "name": "General Entry Level Data Entry 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "global-skills-",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-/",
+    "name": "Global Skills",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Global Skills Assessment",
+    "testTypes": [
+      "C",
+      "K"
+    ],
+    "duration_minutes": 16,
+    "description": "Comprehensive assessment measuring both competencies and knowledge skills. Used for talent audit, development planning, and skills gap analysis.",
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "slug": "global-skills-assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Global Skills Development Report",
+    "testTypes": [
+      "D"
+    ],
+    "duration_minutes": null,
+    "description": "Development-focused report providing detailed skill analysis and growth recommendations based on Global Skills Assessment results.",
+    "slug": "global-skills-development-report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "graduate-7-1-job-focused-assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+    "name": "Graduate 7 1 Job Focused Assessment",
+    "description": "",
+    "testTypes": [
+      "B",
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "graduate-8-0-job-focused-assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "name": "Graduate 8 0 Job Focused Assessment",
+    "description": "",
+    "testTypes": [
+      "B",
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "graduate-8-0-job-focused-assessment-4228",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "name": "Graduate 8 0 Job Focused Assessment 4228",
+    "description": "",
+    "testTypes": [
+      "B",
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Graduate Scenarios",
+    "testTypes": [
+      "B"
+    ],
+    "duration_minutes": null,
+    "description": "Situational judgment test designed for graduate-level candidates. Presents realistic workplace scenarios to assess decision-making and professional judgment.",
+    "jobLevels": [
+      "Entry Level"
+    ],
+    "slug": "graduate-scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "languages": [
+      "English"
+    ],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "guest-service-team-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-service-team-7-0-solution/",
+    "name": "Guest Service Team 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "guest-services-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-services-associate-solution/",
+    "name": "Guest Services Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "healthcare-aide-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "name": "Healthcare Aide 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "healthcare-call-center-agent-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-call-center-agent-solution/",
+    "name": "Healthcare Call Center Agent Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "healthcare-service-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-service-associate-solution/",
+    "name": "Healthcare Service Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "healthcare-support-specialist-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-support-specialist-solution/",
+    "name": "Healthcare Support Specialist Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "HIPAA (Security)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 15,
+    "description": "Assesses knowledge of HIPAA Security Rule requirements including administrative, physical, and technical safeguards for protecting health information.",
+    "slug": "hipaa-security",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "hipo-assessment-report-1-0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "name": "HIPO Assessment Report 1 0",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "hipo-assessment-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "name": "HIPO Assessment Report 2 0",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "hipo-unlocking-potential-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "name": "HIPO Unlocking Potential Report 2 0",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "home-health-aide-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/home-health-aide-solution/",
+    "name": "Home Health Aide Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "hospitality-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/hospitality-manager-solution/",
+    "name": "Hospitality Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "host-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/host-solution/",
+    "name": "Host Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-entry-level-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+    "name": "Industrial Entry Level 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-entry-level-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "name": "Industrial Entry Level 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-entry-level-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "name": "Industrial Entry Level 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-professional-and-skilled-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+    "name": "Industrial Professional And Skilled 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-professional-and-skilled-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+    "name": "Industrial Professional And Skilled 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-professional-and-skilled-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+    "name": "Industrial Professional And Skilled 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-semi-skilled-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+    "name": "Industrial Semi Skilled 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "industrial-semi-skilled-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+    "name": "Industrial Semi Skilled 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "installation-and-repair-technician-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/installation-and-repair-technician-solution/",
+    "name": "Installation And Repair Technician Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "insurance-account-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-account-manager-solution/",
+    "name": "Insurance Account Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "insurance-administrative-assistant-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-administrative-assistant-solution/",
+    "name": "Insurance Administrative Assistant Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "insurance-agent-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-agent-solution/",
+    "name": "Insurance Agent Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "insurance-director-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-director-solution/",
+    "name": "Insurance Director Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "insurance-sales-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-sales-manager-solution/",
+    "name": "Insurance Sales Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Linux Programming (General)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 25,
+    "description": "Assesses knowledge of Linux programming concepts including shell scripting, system calls, file management, and process control.",
+    "languages": [
+      "English"
+    ],
+    "slug": "linux-programming-general",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution/",
+    "name": "Manager 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-0-solution-3955",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution-3955/",
+    "name": "Manager 7 0 Solution 3955",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28americas%29/",
+    "name": "Manager 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28international%29/",
+    "name": "Manager 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution/",
+    "name": "Manager 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-7-1-solution-4242",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution-4242/",
+    "name": "Manager 7 1 Solution 4242",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-8-0-jfa-4310",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "name": "Manager 8 0 Jfa 4310",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "manager-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-short-form/",
+    "name": "Manager Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": 16,
+    "description": "Personality assessment for manufacturing and industrial environments. Measures safety consciousness, dependability, and compliance orientation with industry-specific norms.",
+    "slug": "safety-and-dependability-focus-8-0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 3,
+    "description": "Tests knowledge of common medical terms, abbreviations, body systems, and medical vocabulary used in healthcare settings.",
+    "slug": "medical-terminology-new",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 35,
+    "description": "Comprehensive Excel 365 assessment combining knowledge questions and interactive simulation tasks. Tests formulas, data analysis, charts, and advanced features.",
+    "slug": "microsoft-excel-365-new",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 35,
+    "description": "Comprehensive Word 365 assessment with knowledge and simulation components. Tests document creation, formatting, collaboration, and advanced features.",
+    "slug": "microsoft-word-365-new",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "testTypes": [
+      "K",
+      "S"
+    ],
+    "duration_minutes": 25,
+    "description": "Assesses essential Microsoft Word 365 skills including document formatting, editing, templates, and basic collaboration features.",
+    "slug": "microsoft-word-365-essentials-new",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "motivation-questionnaire-mqm5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "name": "Motivation Questionnaire Mqm5",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "MS Excel (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 6,
+    "description": "Quick concept-check assessment for Microsoft Excel knowledge. Covers formulas, functions, formatting, and basic data analysis.",
+    "slug": "ms-excel-new",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "MS Word (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 4,
+    "description": "Quick concept-check assessment for Microsoft Word knowledge. Covers document editing, formatting, and basic feature usage.",
+    "slug": "ms-word-new",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-framework-4-5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "name": "NET Framework 4 5",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-mvc-new",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "name": "NET Mvc New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-mvvm-new",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "name": "NET Mvvm New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-wcf-new",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "name": "NET Wcf New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-wpf-new",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "name": "NET Wpf New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "net-xaml-new",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "name": "NET Xaml New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 7,
+    "description": "Tests knowledge of networking fundamentals including TCP/IP, DNS, routing, switching, and network implementation best practices.",
+    "slug": "networking-and-implementation-new",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "nursing-assistant-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-assistant-solution/",
+    "name": "Nursing Assistant Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": 25,
+    "description": "The OPQ32r is a comprehensive personality assessment measuring 32 work-relevant personality characteristics. Used for selection, development, and team building across all job levels.",
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese",
+      "Chinese",
+      "Japanese",
+      "Arabic",
+      "Hindi"
+    ],
+    "jobLevels": [
+      "Entry Level",
+      "Mid-Professional",
+      "Manager",
+      "Director",
+      "Executive"
+    ],
+    "remoteSupported": true,
+    "adaptiveIRT": false,
+    "slug": "occupational-personality-questionnaire-opq32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/"
+  },
+  {
+    "slug": "opq-candidate-plus-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "name": "OPQ Candidate Plus Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-candidate-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "name": "OPQ Candidate Report 2 0",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-emotional-intelligence-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "name": "OPQ Emotional Intelligence Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "description": "Specialized report derived from OPQ32r focusing on leadership-relevant personality dimensions for senior leadership selection and development.",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [
+      "Director",
+      "Executive"
+    ],
+    "slug": "opq-leadership-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-manager-plus-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "name": "OPQ Manager Plus Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-maximising-your-learning-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "name": "OPQ Maximising Your Learning Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "description": "Specialized report combining OPQ and Motivation Questionnaire data to predict sales performance. Maps personality and motivation to sales competencies.",
+    "slug": "opq-mq-sales-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-premium-plus-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "name": "OPQ Premium Plus Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-premium-plus-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "name": "OPQ Premium Plus Report 2 0",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-profile-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "name": "OPQ Profile Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-team-impact-group-development-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "name": "OPQ Team Impact Group Development Report",
+    "description": "",
+    "testTypes": [
+      "K",
+      "P",
+      "D"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-team-impact-individual-development-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "name": "OPQ Team Impact Individual Development Report",
+    "description": "",
+    "testTypes": [
+      "K",
+      "P",
+      "D"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-team-impact-selection-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "name": "OPQ Team Impact Selection Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-team-types-and-leadership-styles-profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "name": "OPQ Team Types And Leadership Styles Profile",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-team-types-and-leadership-styles-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "name": "OPQ Team Types And Leadership Styles Report",
+    "description": "",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-ucf-development-action-planner-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "name": "OPQ UCF Development Action Planner Report",
+    "description": "",
+    "testTypes": [
+      "K",
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-ucf-development-action-planner-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "name": "OPQ UCF Development Action Planner Report 2 0",
+    "description": "",
+    "testTypes": [
+      "K",
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "opq-universal-competency-report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "name": "OPQ Universal Competency Report",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "description": "Report derived from OPQ32r results mapping personality to the Universal Competency Framework. Provides competency potential ratings for selection and development.",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [
+      "Manager",
+      "Director",
+      "Executive"
+    ],
+    "slug": "opq-universal-competency-report-2-0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "personal-banker-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+    "name": "Personal Banker Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "phone-banker-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+    "name": "Phone Banker Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "prepline-cook-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/prepline-cook-solution/",
+    "name": "Prepline Cook Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution/",
+    "name": "Professional 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-7-0-solution-3958",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution-3958/",
+    "name": "Professional 7 0 Solution 3958",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "name": "Professional 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "name": "Professional 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-7-1-solution-4247",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+    "name": "Professional 7 1 Solution 4247",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professional-8-0-jfa",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+    "name": "Professional 8 0 Jfa",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "professionalindividual-contributor-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "name": "Professionalindividual Contributor Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "project-management-2013",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "name": "Project Management 2013",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "project-manager-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+    "name": "Project Manager Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "proof-operator-processing-specialist-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "name": "Proof Operator Processing Specialist Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "reservation-agent-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/reservation-agent-solution/",
+    "name": "Reservation Agent Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "restaurant-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-manager-solution/",
+    "name": "Restaurant Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "restaurant-supervisor-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-supervisor-solution/",
+    "name": "Restaurant Supervisor Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "retail-consultant-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-consultant-solution/",
+    "name": "Retail Consultant Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "retail-manager-w-sales-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-manager-w-sales-solution/",
+    "name": "Retail Manager W Sales Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "retail-sales-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-associate-solution/",
+    "name": "Retail Sales Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-director-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-director-solution/",
+    "name": "Sales Director Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-engineer-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-engineer-solution/",
+    "name": "Sales Engineer Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-manager-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-manager-solution/",
+    "name": "Sales Manager Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-professional-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-0-solution/",
+    "name": "Sales Professional 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-professional-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "name": "Sales Professional 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-professional-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+    "name": "Sales Professional Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-representative-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+    "name": "Sales Representative Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-supervisor-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+    "name": "Sales Supervisor Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sales-support-specialist-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+    "name": "Sales Support Specialist Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "testTypes": [
+      "P"
+    ],
+    "duration_minutes": null,
+    "description": "Report designed for individual contributor sales roles. Predicts sales transformation readiness based on personality and behavioral indicators.",
+    "slug": "salestransformationreport2-0-individualcontributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "sap-business-objects-webi-new",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "name": "Sap Business Objects Webi New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "senior-insurance-agent-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+    "name": "Senior Insurance Agent Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "senior-sales-professional-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+    "name": "Senior Sales Professional Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "server-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+    "name": "Server Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "service-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+    "name": "Service Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "service-supervisor-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+    "name": "Service Supervisor Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "shl-verify-interactive-deductive-reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "name": "SHL Verify Interactive Deductive Reasoning",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 36,
+    "description": "Adaptive general ability assessment measuring numerical, verbal, and inductive reasoning. Uses Item Response Theory (IRT) for precise measurement.",
+    "languages": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Portuguese"
+    ],
+    "jobLevels": [
+      "Entry Level",
+      "Mid-Professional",
+      "Manager"
+    ],
+    "remoteSupported": true,
+    "adaptiveIRT": true,
+    "slug": "shl-verify-interactive-g",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/"
+  },
+  {
+    "slug": "shl-verify-interactive-inductive-reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "name": "SHL Verify Interactive Inductive Reasoning",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "slug": "shl-verify-interactive-numerical-calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 20,
+    "description": "Adaptive numerical reasoning assessment using interactive item types. Measures ability to interpret data, work with statistics, and draw numerical conclusions.",
+    "remoteSupported": true,
+    "adaptiveIRT": true,
+    "slug": "shl-verify-interactive-numerical-reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": []
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "description": "Interactive live coding assessment where candidates solve programming tasks in real-time. Supports multiple programming languages including Java, Python, JavaScript, and more.",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [
+      "Mid-Professional",
+      "Manager"
+    ],
+    "slug": "smart-interview-live-coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Spring (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 9,
+    "description": "Assesses knowledge of the Spring Framework including dependency injection, Spring Boot, Spring MVC, and Spring Data.",
+    "slug": "spring-new",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "SQL (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 9,
+    "description": "Tests SQL knowledge including queries, joins, subqueries, aggregation, DDL/DML, and database design concepts.",
+    "slug": "sql-new",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "stock-clerk-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+    "name": "Stock Clerk Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "store-manager-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+    "name": "Store Manager 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "store-manager-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "name": "Store Manager 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "store-manager-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "name": "Store Manager 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "supervisor-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-0-solution/",
+    "name": "Supervisor 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "supervisor-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "name": "Supervisor 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "supervisor-7-1-%28international%29",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "name": "Supervisor 7 1 (international)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "support-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-associate-solution/",
+    "name": "Support Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "support-supervisor-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-supervisor-solution/",
+    "name": "Support Supervisor Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "SVAR Spoken English (US) (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "description": "Automated spoken English assessment calibrated for US English accent. Evaluates pronunciation, fluency, and comprehension for customer-facing roles.",
+    "slug": "svar-spoken-english-us-new",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "technical-sales-associate-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/technical-sales-associate-solution/",
+    "name": "Technical Sales Associate Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "techniciantechnologist-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/techniciantechnologist-solution/",
+    "name": "Techniciantechnologist Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "teller-7-0",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-7-0/",
+    "name": "Teller 7 0",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "teller-with-sales-short-form",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-with-sales-short-form/",
+    "name": "Teller With Sales Short Form",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "teradata-development-new",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "name": "Teradata Development New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "time-management-u-s",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "name": "Time Management U S",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "training-development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "name": "Training Development",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "transcriptionist-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/transcriptionist-solution/",
+    "name": "Transcriptionist Solution",
+    "description": "",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "typing-new",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "name": "Typing New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "uipath-rpa-development-new",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "name": "Uipath Rpa Development New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "universal-competency-framework-interview-guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "name": "Universal Competency Framework Interview Guide",
+    "description": "",
+    "testTypes": [
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "universal-competency-framework-job-profiling-guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "name": "Universal Competency Framework Job Profiling Guide",
+    "description": "",
+    "testTypes": [
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "universal-competency-framework-profiler-cards-44",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "name": "Universal Competency Framework Profiler Cards 44",
+    "description": "",
+    "testTypes": [
+      "C"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "unix-new",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "name": "Unix New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "vb-net-new",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "name": "VB NET New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-deductive-reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "name": "Verify Deductive Reasoning",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-following-instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "name": "Verify Following Instructions",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-g",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "name": "Verify G",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-g-ability-test-report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "name": "Verify G Ability Test Report",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-g-candidate-report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "name": "Verify G Candidate Report",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-general-ability-screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "name": "Verify General Ability Screen",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-inductive-reasoning-2014",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "name": "Verify Inductive Reasoning 2014",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-interactive-ability-report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "name": "Verify Interactive Ability Report",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "slug": "verify-interactive-g-candidate-report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "name": "Verify Interactive G Candidate Report",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "slug": "verify-interactive-g-report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "name": "Verify Interactive G Report",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "slug": "verify-interactive-process-monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "name": "Verify Interactive Process Monitoring",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": 25,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": true
+  },
+  {
+    "slug": "verify-numerical-ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "name": "Verify Numerical Ability",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-technical-checking-next-generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "name": "Verify Technical Checking Next Generation",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-verbal-ability-next-generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "name": "Verify Verbal Ability Next Generation",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "verify-working-with-information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "name": "Verify Working With Information",
+    "description": "",
+    "testTypes": [
+      "A"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "virtual-assessment-and-development-centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "name": "Virtual Assessment And Development Centers",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "visual-basic-for-applications-new",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "name": "Visual Basic For Applications New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "visual-comparison-uk",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "name": "Visual Comparison UK",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "visual-comparison-us",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "name": "Visual Comparison US",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "vlsi-and-embedded-systems-new",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "name": "Vlsi And Embedded Systems New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "what-is-the-value-us",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "name": "What Is The Value US",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-administration-skills-new",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "name": "Workplace Administration Skills New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 9,
+    "description": "Tests knowledge of workplace health and safety regulations, hazard identification, risk assessment, and safety best practices.",
+    "slug": "workplace-health-and-safety-new",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-individual-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "name": "Workplace Safety Individual 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-individual-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "name": "Workplace Safety Individual 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-solution/",
+    "name": "Workplace Safety Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-team-7-0-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "name": "Workplace Safety Team 7 0 Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-team-7-1-%28americas%29",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "name": "Workplace Safety Team 7 1 (americas)",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "workplace-safety-team-7-1-solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "name": "Workplace Safety Team 7 1 Solution",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 30,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "writex-email-writing-customer-service-new",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "name": "Writex Email Writing Customer Service New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "writex-email-writing-managerial-new",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "name": "Writex Email Writing Managerial New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "writex-email-writing-sales-new",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "name": "Writex Email Writing Sales New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "written-english-v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "name": "Written English V1",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "written-spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "name": "Written Spanish",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": null,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  },
+  {
+    "slug": "zabbix-new",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "name": "Zabbix New",
+    "description": "",
+    "testTypes": [
+      "K"
+    ],
+    "duration_minutes": 10,
+    "languages": [
+      "English"
+    ],
+    "jobLevels": [],
+    "remoteSupported": true,
+    "adaptiveIRT": false
+  }
+]
